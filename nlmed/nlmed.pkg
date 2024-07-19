@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'nlmed': Mediation analysis of non-linear models Use nlmed With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f nlmed.ado
+f nlmed.sthlp
