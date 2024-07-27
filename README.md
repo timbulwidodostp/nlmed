@@ -1,6 +1,8 @@
 # nlmed
 Mediation analysis of non-linear models Use nlmed With STATA 18
 
+https://www.youtube.com/watch?v=eEj5uW3Fgp8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
